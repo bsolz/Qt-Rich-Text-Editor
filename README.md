@@ -12,3 +12,5 @@ However it was expanded upon by adding features that were not in the main tutori
 - Underlining text
 - Alligning text left, middle and right
 - Changing font size (from 8 point to 32 points)
+
+### To run program, download all files and run the "Notepad" application in the folder "build-Notepad-Desktop_Qt_5_15_0_clang_64bit-Debug"
